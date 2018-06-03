@@ -65,8 +65,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
-
+    'timezone' => 'Asia/Shanghai',
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
@@ -78,8 +77,7 @@ return [
     |
     */
 
-    'locale' => 'en',
-
+    'locale' => 'zh-CN',
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
