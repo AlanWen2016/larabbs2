@@ -13,7 +13,7 @@
 
 # 教程要在文件最顶部加载，我也是很无奈
 
-require_once __DIR__ . 'helpers.php';
+//require_once __DIR__ . '/helpers.php';
 
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
